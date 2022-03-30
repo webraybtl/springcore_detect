@@ -1,5 +1,5 @@
 # spring-core 漏洞自查工具
-本工具为spring-core漏洞的本地自建工具
+本工具为spring-core漏洞的本地自检工具
 
 # 漏洞检测原理
 1、判断jdk版本是否大于9
