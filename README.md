@@ -1,5 +1,5 @@
-# spring4shell 漏洞自查工具
-本工具为spring4shell漏洞的本地自检工具
+# spring CVE-2022-22965 漏洞自查工具
+本工具为spring CVE-2022-22965 漏洞的本地自检工具
 
 ## 漏洞检测原理
 1、判断jdk版本是否大于9
